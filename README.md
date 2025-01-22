@@ -1,0 +1,1 @@
+A README file is a text file that contains information about a project, such as how to install it, who is responsible for it, and how to get help. The contents of a README file can vary depending on the project and its users.
